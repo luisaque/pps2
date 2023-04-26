@@ -17,6 +17,6 @@ pipeline {
             steps {
                 sh './mvnw spring-boot:run'
             }
-        }
-    }
+        }
+    }
 }
